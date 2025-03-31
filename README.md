@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in The Philippines
-* ✉️  You can contact me at [jetapilado@gmail.com](mailto:jetroapilado@gmail.com)
+* ✉️  You can contact me at [jetroapilado@gmail.com](mailto:jetroapilado@gmail.com)
 
 ### Skills
 
